@@ -4,13 +4,11 @@
 
 The above-listed codes and information are unique and it is open-source to use,
 
-We have Done Collaborative Recommendation System for Gadgets using Python,
+We have done a Collaborative Recommendation System for Gadgets using Python,
 
-The above files contain codes,
+We published our project as Research Article at IEEE Conference in 2023 4th International Conference for Emerging Technology (INCET),
 
-Kalasalingam Academy of Research and Education,
-
-Tamil Nadu.
+<li><a href="https://ieeexplore.ieee.org/document/10169950">Research Article</a> 
 
 To know more about me or to follow my work, you can visit me on,
 
